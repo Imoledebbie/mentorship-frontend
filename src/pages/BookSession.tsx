@@ -61,7 +61,7 @@ const BookSession = () => {
       const token = localStorage.getItem('token');
 
       await axios.post(
-        `${API_BASE_URL}/api/sessions/book`,
+        `${API_BASE_URL}/api/sessions`,
         {
           mentorId: selectedMentor,
           date,
