@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 🚀 Live Deployment
 
-- **Frontend (Netlify)**: [https://mentor-menteeship.netlify.app](https://mentor-menteeship.netlify.app)
+- **Frontend (Netlify)**: [https://mentor-menteeship.netlify.app](https://mentor-menteeship.netlify.app)  
 - **Backend (Render)**: [https://mentorship-backend-xpgu.onrender.com](https://mentorship-backend-xpgu.onrender.com)
 
 ---
@@ -79,14 +79,13 @@ Basic API and UI testing was done using Postman and browser interaction.
 
 ## 🎥 Demo Video
 
-🎬 A video walkthrough of the platform is available [**HERE**]().  
-(Add the link after recording)
+🎬 A video walkthrough of the platform is available [**HERE**](https://www.loom.com/share/02cbede505fa4759a9bf974d82c9d6de?sid=bfab94a1-44d4-4fae-ae86-218b0d5f9b04).
 
 ---
 
 ## 👥 Collaborators
 
-- Add lecturers' GitHub usernames here if required.
+- (Add lecturers' GitHub usernames here if required)
 
 ---
 
